@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/LeandroA98/Blogr-landing-page/tree/master)
+- Live Site URL:(https://leandroa98.github.io/Blogr-landing-page/)
 
 ## My process
 
@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@LeandroA98](https://www.frontendmentor.io/profile/LeandroA98)
 - Twitter - [@leoleo_dev](https://www.twitter.com/@leoleo_dev)
 

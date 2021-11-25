@@ -451,4 +451,26 @@ main {
 	text-decoration: none;
 }
 
+.social {
+	margin-top: 5%;
+	margin-left: 7%;
+	height: 50px;
+	width: 150px;
+}
+
+.social span {
+	color: var(--Grayish-blue);
+	font-size: 1.4rem;
+}
+
+
+
+.social__twitter {
+	margin: 20px 10px 0 10px;
+	width: 12%;
+}
+.social__github {
+	width: 12%;
+}
+
 

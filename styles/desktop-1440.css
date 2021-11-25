@@ -269,6 +269,7 @@ header {
 	flex-direction: row;
 	align-items: flex-start;
 	height: 500px;
+	position: relative;
 }
 
 .footer__container--heading {
@@ -313,5 +314,16 @@ header {
 	text-decoration: underline;
 }
 
-
+.social {
+	position: absolute;
+	right: 5%;
+	bottom: 0px;
+}
+.social__twitter {
+	margin: 0 10px;
+	width: 12%;
+}
+.social__github {
+	width: 12%;
+}
 
